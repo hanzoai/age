@@ -20,11 +20,11 @@ import (
 	"strings"
 	"unicode"
 
-	"filippo.io/age"
-	"filippo.io/age/agessh"
-	"filippo.io/age/armor"
-	"filippo.io/age/internal/term"
-	"filippo.io/age/plugin"
+	"github.com/hanzoai/age"
+	"github.com/hanzoai/age/agessh"
+	"github.com/hanzoai/age/armor"
+	"github.com/hanzoai/age/internal/term"
+	"github.com/hanzoai/age/plugin"
 )
 
 const usage = `Usage:

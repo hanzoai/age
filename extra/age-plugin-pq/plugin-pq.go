@@ -8,9 +8,9 @@ import (
 	"os"
 	"runtime/debug"
 
-	"filippo.io/age"
-	"filippo.io/age/internal/bech32"
-	"filippo.io/age/plugin"
+	"github.com/hanzoai/age"
+	"github.com/hanzoai/age/internal/bech32"
+	"github.com/hanzoai/age/plugin"
 )
 
 const usage = `Usage:

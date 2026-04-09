@@ -13,7 +13,7 @@ import (
 	"runtime/debug"
 	"time"
 
-	"filippo.io/age"
+	"github.com/hanzoai/age"
 	"golang.org/x/term"
 )
 

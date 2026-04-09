@@ -55,8 +55,8 @@ import (
 	"slices"
 	"sort"
 
-	"filippo.io/age/internal/format"
-	"filippo.io/age/internal/stream"
+	"github.com/hanzoai/age/internal/format"
+	"github.com/hanzoai/age/internal/stream"
 )
 
 // An Identity is passed to [Decrypt] to unwrap an opaque file key from a
