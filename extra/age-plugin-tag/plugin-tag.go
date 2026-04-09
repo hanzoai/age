@@ -7,9 +7,9 @@ import (
 	"os"
 	"runtime/debug"
 
-	"filippo.io/age"
-	"filippo.io/age/plugin"
-	"filippo.io/age/tag"
+	"github.com/hanzoai/age"
+	"github.com/hanzoai/age/plugin"
+	"github.com/hanzoai/age/tag"
 )
 
 const usage = `age-plugin-tag is an age plugin for P-256 tagged recipients. These are supported

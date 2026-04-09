@@ -1,4 +1,4 @@
-module filippo.io/age
+module github.com/hanzoai/age
 
 go 1.24.0
 

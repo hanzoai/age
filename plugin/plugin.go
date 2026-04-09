@@ -17,8 +17,8 @@ import (
 	"slices"
 	"strconv"
 
-	"filippo.io/age"
-	"filippo.io/age/internal/format"
+	"github.com/hanzoai/age"
+	"github.com/hanzoai/age/internal/format"
 )
 
 // TODO: add plugin test framework.

@@ -9,9 +9,9 @@ import (
 	"crypto/subtle"
 	"fmt"
 
-	"filippo.io/age"
-	"filippo.io/age/internal/format"
-	"filippo.io/age/tag"
+	"github.com/hanzoai/age"
+	"github.com/hanzoai/age/internal/format"
+	"github.com/hanzoai/age/tag"
 	"filippo.io/hpke"
 	"filippo.io/nistec"
 )

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"filippo.io/age/internal/term"
+	"github.com/hanzoai/age/internal/term"
 )
 
 // NewTerminalUI returns a [ClientUI] that uses the terminal to request inputs,

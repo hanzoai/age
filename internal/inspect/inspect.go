@@ -7,9 +7,9 @@ import (
 	"io"
 	"strings"
 
-	"filippo.io/age/armor"
-	"filippo.io/age/internal/format"
-	"filippo.io/age/internal/stream"
+	"github.com/hanzoai/age/armor"
+	"github.com/hanzoai/age/internal/format"
+	"github.com/hanzoai/age/internal/stream"
 )
 
 type Metadata struct {
