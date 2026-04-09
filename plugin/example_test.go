@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"filippo.io/age"
-	"filippo.io/age/plugin"
+	"github.com/hanzoai/age"
+	"github.com/hanzoai/age/plugin"
 )
 
 type Recipient struct{}
