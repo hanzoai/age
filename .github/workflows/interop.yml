@@ -5,7 +5,7 @@ permissions:
 jobs:
   trigger:
     name: Trigger
-    runs-on: ubuntu-latest
+    runs-on: hanzo-build-linux-amd64
     steps:
       - name: Trigger interoperability tests in str4d/rage
         run: >
