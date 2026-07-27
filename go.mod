@@ -1,6 +1,6 @@
 module github.com/hanzoai/age
 
-go 1.26.4
+go 1.26.5
 
 // Release build version.
 toolchain go1.26.3
